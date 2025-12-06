@@ -1,1 +1,1 @@
-Print "THIS IS NEW FILE"
+Print ("THIS IS NEW FILE")
